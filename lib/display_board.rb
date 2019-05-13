@@ -4,3 +4,7 @@ def display_board
 end
 
 display_board
+
+
+"   |   |   \n-----------\n   |   |   \n-----------\n   |   | \n"
+
